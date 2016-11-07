@@ -1,0 +1,8 @@
+a:link, a:visited {
+    text-decoration: none;
+    background-color: #DDD;
+}
+a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
